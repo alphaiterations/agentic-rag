@@ -1,5 +1,14 @@
 # Agentic RAG — Practical experimentation with retrieval-augmented generation
 
+Please read full article on medium: [Build Agentic RAG using LangGraph](https://medium.com/@alphaiterations/build-agentic-rag-using-langgraph-b568aa26d710)
+
+
+
+
+
+
+
+
 This project is an interactive notebook-driven exploration of Retrieval-Augmented Generation (RAG) patterns for medical knowledge and device manuals. It demonstrates a traditional RAG pipeline and an "agentic" RAG variant where a lightweight routing agent chooses among multiple retrieval tools (ChromaDB collections and a web search) before generating an answer with an LLM.
 
 The content below is distilled from the notebook `agnetic-rag.ipynb` and prepared for publication (for example, on Medium). It preserves the original structure: dataset preparation, vector store setup, simple LLM wiring, a traditional RAG workflow, and an agentic RAG workflow with routing and relevance-checking.
