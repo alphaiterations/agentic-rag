@@ -171,8 +171,6 @@ SERPER_API_KEY=your_serper_api_key_here
 
 This notebook is a practical, experiment-focused exploration of RAG and agentic RAG for medical content. It demonstrates how a tiny routing agent and conditional workflows can make RAG systems more flexible and context-aware while keeping iteration costs bounded.
 
-If you'd like, I can also:
-- Extract runnable scripts from notebook cells (python modules) and add a requirements file.
-- Prepare a Medium-ready article with images and code highlights derived from this README.
+
 # agentic-rag
 Agentic RAG
